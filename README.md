@@ -1,3 +1,5 @@
+# gwrom now only exists as part of [gw-libretro](https://github.com/libretro/gw-libretro)
+
 # gwrom
 
 An archive reader for games.
